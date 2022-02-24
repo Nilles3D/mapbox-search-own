@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mapbox-search-own</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibmlsYm94bGVzIiwiYSI6ImNrd2liM29qajE2aTgycHA4emtiMTZsOW0ifQ.CJxLGfkNO4dZED4yCEkKVQ</string>
+</resources>
